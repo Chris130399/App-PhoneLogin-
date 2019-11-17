@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "547398836657",
+    "firebase_url": "https://em-urgency-phone-login.firebaseio.com",
+    "project_id": "em-urgency-phone-login",
+    "storage_bucket": "em-urgency-phone-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547398836657:android:9c97b5b2c08325fa551d90",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547398836657-6979ggqbii42t957h5s7cvf441rfk6o8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.login",
+            "certificate_hash": "a7d9813820a6b51a3fcf6f259761b5f7feec144a"
+          }
+        },
+        {
+          "client_id": "547398836657-no1009sh9b55qkcr82vfsfdbuob1cshh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOysdb9GJ_1ZgXaR14Pz-CHnfTaBr54tA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547398836657-no1009sh9b55qkcr82vfsfdbuob1cshh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
